@@ -29,7 +29,6 @@ Here's what I use to craft exceptional applications:
 
 #### **Backend Development**:
 - **Python** – Powering my backend and AI projects with efficiency.
-- **Django** – Python’s web framework to build secure and scalable apps.
 - **TypeScript** – Enriching JavaScript with static types for reliability.
 
 #### **Version Control & Collaboration**:
@@ -37,17 +36,13 @@ Here's what I use to craft exceptional applications:
 - **GitHub** – Hosting my code and collaborating on projects.
 - **Figma** – Designing user-friendly interfaces and UI/UX mockups.
 
-#### **Other Tools**:
-- **Docker** – Packaging my applications into containers.
-- **Postman** – Testing and documenting APIs.
-
 ---
 
 ### 📫 **How to Connect with Me**:
 Feel free to reach out to me through any of the following platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/wania-azam-3097b5301/" target="blank">
+  <a href="https://www.linkedin.com/in/waniaa-azam-3097b5301/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   <a href="mailto:waniaazam605@gmail.com">
@@ -59,10 +54,6 @@ Feel free to reach out to me through any of the following platforms:
 
 ### 💻 **My Projects**
 Check out my recent work and contributions:
-
-- 🌐 [**Portfolio Website**](https://github.com/WaniaAzamm/Portfolio) – A personal website showcasing my skills, experience, and projects built with **Next.js** and **Tailwind CSS**.
-- 🏧 [**ATM Project**](https://github.com/WaniaAzamm/Atm) – A Python-based ATM simulator showcasing basic banking operations.
-- ☀️ [**Weather App**](https://github.com/WaniaAzamm/WeatherApp) – A weather app built using **React** that fetches live data from an external API.
 
 Explore all of my projects on my [GitHub Profile](https://github.com/WaniaAzamm).
 
@@ -101,9 +92,8 @@ I also enjoy designing creative UI/UX mockups and exploring **Figma** for making
 ---
 
 ### 🔗 **Quick Links**:
-- **LinkedIn**: [Wania Azam](https://www.linkedin.com/in/wania-azam-3097b5301/)
+- **LinkedIn**: [Wania Azam](https://www.linkedin.com/in/waniaa-azam-3097b5301/)
 - **GitHub**: [@WaniaAzamm](https://github.com/WaniaAzamm)
-- **Portfolio**: [Wania Azam Portfolio](https://github.com/WaniaAzamm/Portfolio)
 
 ---
 
