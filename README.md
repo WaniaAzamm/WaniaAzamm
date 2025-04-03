@@ -42,7 +42,7 @@ Here's what I use to craft exceptional applications:
 Feel free to reach out to me through any of the following platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/waniaa-azam-3097b5301/" target="blank">
+  <a href="https://www.linkedin.com/in/waniaa-azam/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   <a href="mailto:waniaazam605@gmail.com">
@@ -92,7 +92,7 @@ I also enjoy designing creative UI/UX mockups and exploring **Figma** for making
 ---
 
 ### 🔗 **Quick Links**:
-- **LinkedIn**: [Wania Azam](https://www.linkedin.com/in/waniaa-azam-3097b5301/)
+- **LinkedIn**: [Wania Azam](https://www.linkedin.com/in/waniaa-azam/)
 - **GitHub**: [@WaniaAzamm](https://github.com/WaniaAzamm)
 
 ---
