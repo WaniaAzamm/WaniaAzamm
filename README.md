@@ -1,72 +1,110 @@
-<h1 align="center">Hello 👋, I'm Wania Azam</h1>
-<h3 align="center">Aspiring Developer | Passionate About AI, Web3, and the Metaverse</h3>
+<h1 align="center">Hey 👋, I'm Wania Azam</h1>
+<h3 align="center">Aspiring Developer | Passionate About AI, Web3, and Full-Stack Development</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8e1202ce5e563895d854dc35a2da302b8f70ef56f127e13853e3e61a9555ba02/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067"
-  alt="coding" width="450" />
+  <img src="https://camo.githubusercontent.com/8e1202ce5e563895d854dc35a2da302b8f70ef56f127e13853e3e61a9555ba02/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067" alt="coding" width="400" />
 </p>
 
-### 🚀 About Me
-- **Current Focus**: Learning Python and exploring AI applications.
-- **Interests**: AI, Web3, Blockchain, Metaverse, and Full-Stack Development.
-- **Motto**: Always strive to learn, improve, and innovate.
+---
+
+### 🚀 **About Me**
+I'm an enthusiastic developer exploring the cutting-edge world of **AI**, **Web3**, and the **Metaverse**. Currently, I'm deep diving into **Python** for AI development and learning new technologies that push the boundaries of what's possible in the tech world.
+
+- **Current Focus**: Mastering **Python**, **React.js**, and **Next.js**.
+- **Future Goals**: Build decentralized apps and explore more about blockchain and Web3 technologies.
+- **Motto**: **"Code the Future, Build the World."** 🌍💻
 
 ---
 
-### 🌱 Technologies & Tools
-I work with a variety of languages and tools to build modern, scalable applications. Here's a quick look:
+### 🛠️ **Tech Stack & Tools**
+Here's what I use to craft exceptional applications:
 
-#### Frontend Development:
-- **HTML5** – Structure of websites and web apps.
-- **CSS3 & Tailwind CSS** – Styling, layouts, and responsive designs.
-- **JavaScript** – Client-side logic and interactive UI.
-- **React.js** – Building dynamic UIs with reusable components.
-- **Next.js** – Full-stack framework for React, with server-side rendering and static site generation.
+#### **Frontend Development**:
+- **HTML5** – Crafting semantic and accessible web pages.
+- **CSS3** – Styling the web with modern layouts.
+- **Tailwind CSS** – Rapidly building custom designs with utility-first CSS.
+- **JavaScript** – The backbone of interactive websites.
+- **React.js** – Crafting dynamic UIs with components that scale.
+- **Next.js** – Building fast, full-stack React applications with SSR and static site generation.
 
-#### Backend Development:
-- **Python** – Backend development, AI, and automation.
-- **Django** – Web framework for rapid development of secure and maintainable websites.
-- **TypeScript** – JavaScript with static types for enhanced reliability and maintainability.
+#### **Backend Development**:
+- **Python** – Powering my backend and AI projects with efficiency.
+- **Django** – Python’s web framework to build secure and scalable apps.
+- **TypeScript** – Enriching JavaScript with static types for reliability.
 
-#### Tools & Version Control:
-- **Git** – Version control and collaboration.
-- **GitHub** – Hosting projects and collaboration.
-- **Figma** – Designing UI/UX with collaboration features.
+#### **Version Control & Collaboration**:
+- **Git** – For version control and managing code changes.
+- **GitHub** – Hosting my code and collaborating on projects.
+- **Figma** – Designing user-friendly interfaces and UI/UX mockups.
+
+#### **Other Tools**:
+- **Docker** – Packaging my applications into containers.
+- **Postman** – Testing and documenting APIs.
 
 ---
 
-### 🤝 Connect with Me:
+### 📫 **How to Connect with Me**:
+Feel free to reach out to me through any of the following platforms:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/wania-azam-3097b5301/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAiKBcpaXRwmVEYEM6EjBfA%3D%3D" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/wania-azam-3097b5301/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   <a href="mailto:waniaazam605@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="150"/>
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 </p>
 
 ---
 
-### 💻 Projects:
-Here are some of my recent works:
+### 💻 **My Projects**
+Check out my recent work and contributions:
 
-- [**ATM Project**](https://github.com/WaniaAzamm/Atm) – A simple ATM simulation built with Python.
-- [**Personal Portfolio**](https://github.com/WaniaAzamm/Portfolio) – My personal portfolio built with Next.js and Tailwind CSS.
-- [**Weather App**](https://github.com/WaniaAzamm/WeatherApp) – A weather app built with React.js and integrated with a public API.
+- 🌐 [**Portfolio Website**](https://github.com/WaniaAzamm/Portfolio) – A personal website showcasing my skills, experience, and projects built with **Next.js** and **Tailwind CSS**.
+- 🏧 [**ATM Project**](https://github.com/WaniaAzamm/Atm) – A Python-based ATM simulator showcasing basic banking operations.
+- ☀️ [**Weather App**](https://github.com/WaniaAzamm/WeatherApp) – A weather app built using **React** that fetches live data from an external API.
 
-Explore all my projects on my [GitHub](https://github.com/WaniaAzamm).
+Explore all of my projects on my [GitHub Profile](https://github.com/WaniaAzamm).
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waniaazamm&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+### 🔥 **GitHub Streak**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waniaazamm&" alt="GitHub Streak" />
 </p>
 
+### 🌍 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waniaazamm&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+### 🌟 **More About Me**
+I’m passionate about creating digital solutions that can help shape the future, whether that’s through building responsive user interfaces or working on next-gen technologies like AI and blockchain. My goal is to keep learning and experimenting with new ideas that can have a real-world impact. 🚀
+
+---
+
+### 💬 **Let's Build Something Together!**
+If you have an exciting project or idea, feel free to reach out. Let’s make something amazing!
+
+---
+
+### 💡 **Fun Fact**
+I also enjoy designing creative UI/UX mockups and exploring **Figma** for making the best digital experiences! 🎨
+
+---
+
+### 🔗 **Quick Links**:
+- **LinkedIn**: [Wania Azam](https://www.linkedin.com/in/wania-azam-3097b5301/)
+- **GitHub**: [@WaniaAzamm](https://github.com/WaniaAzamm)
+- **Portfolio**: [Wania Azam Portfolio](https://github.com/WaniaAzamm/Portfolio)
+
+---
+
+🖤 **Thanks for visiting my profile! Let's build the future together!**
